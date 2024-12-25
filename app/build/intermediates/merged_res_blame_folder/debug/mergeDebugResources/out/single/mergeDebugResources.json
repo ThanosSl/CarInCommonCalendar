@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_profile.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_rounded_corners.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/menu_menu_drawer.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_gradient_background.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_settings.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_car_details.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_car_details.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_car_on_common_logo.png.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/car_on_common_logo.png"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_register.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_maps.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_maps.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_rounded_edittext_background.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/rounded_edittext_background.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_transactions.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_transactions.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_main_menu.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_account_circle.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_account_circle.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_fuel_indicator.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_fuel_indicator.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_group.png.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/group.png"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_info_window.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/info_window.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_group_chat.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_group_chat.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_chat.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_circle_background.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/menu_main_menu.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_startscreen.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_startscreen.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_maps.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_item_message.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_car_placeholder.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/car_placeholder.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_ic_home.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_input_background.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/drawable_baseline_settings_applications_24.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/drawable/baseline_settings_applications_24.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_chat.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.car_in_common_test2.app-debug-5:/layout_activity_login.xml.flat",
+        "source": "com.example.car_in_common_test2.app-main-7:/layout/activity_login.xml"
+    }
+]

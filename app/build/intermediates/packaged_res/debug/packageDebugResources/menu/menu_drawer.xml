@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navProfile"
+        android:title="Το Προφίλ Μου" />
+
+<!--    <item-->
+<!--        android:id="@+id/navTeamSettings"-->
+<!--        android:title="Ρυθμίσεις Ομάδας" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/navJoinTeam"-->
+<!--        android:title="Είσοδος σε άλλη ομάδα" />-->
+</menu>

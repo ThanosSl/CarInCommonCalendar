@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="gradient_bottom">#F0F0F0</color>
+    <color name="gradient_top">#1E90FF</color>
+    <color name="icon_color">#000000</color>
+    <color name="text_color">#000000</color>
+    <string name="app_name">Car-In-Common Test</string>
+    <string name="gcm_defaultSenderId" translatable="false">237091127653</string>
+    <string name="google_api_key" translatable="false">AIzaSyC602DrojXA3B88z3mfUSzkKITp7di1y6c</string>
+    <string name="google_app_id" translatable="false">1:237091127653:android:afbf3b4de85e2fb89ee18c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC602DrojXA3B88z3mfUSzkKITp7di1y6c</string>
+    <string name="google_storage_bucket" translatable="false">car-in-common.appspot.com</string>
+    <string name="project_id" translatable="false">car-in-common</string>
+    <style name="Base.Theme.CarInCommonTest2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gradient_top</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorAccent">@color/gradient_bottom</item>
+
+
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+    <style name="Theme.CarInCommonTest2" parent="Base.Theme.CarInCommonTest2"/>
+</resources>
