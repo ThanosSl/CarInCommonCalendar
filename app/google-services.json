@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237091127653",
+    "project_id": "car-in-common",
+    "storage_bucket": "car-in-common.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237091127653:android:afbf3b4de85e2fb89ee18c",
+        "android_client_info": {
+          "package_name": "com.example.car_in_common_test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC602DrojXA3B88z3mfUSzkKITp7di1y6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

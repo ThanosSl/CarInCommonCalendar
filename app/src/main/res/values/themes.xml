@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CarInCommonTest2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gradient_top</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorAccent">@color/gradient_bottom</item>
+
+
+        <!-- Background and text colors -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <style name="Theme.CarInCommonTest2" parent="Base.Theme.CarInCommonTest2" />
+</resources>

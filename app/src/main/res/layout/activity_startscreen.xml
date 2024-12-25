@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/gradient_background"
+    android:padding="16dp">
+
+    <!-- App Icon -->
+    <ImageView
+        android:id="@+id/appLogo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/car_on_common_logo"
+        android:contentDescription="App Logo"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Login Button -->
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Σύνδεση"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@android:color/black"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Register Button -->
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Δημιουργία Λογαριασμού"
+        android:textColor="@android:color/black"
+        android:backgroundTint="@android:color/white"
+        android:layout_marginBottom="16dp" />
+</LinearLayout>
